@@ -1,4 +1,4 @@
-#Capture, zoom and pan using OpenCV with python.
+# Capture, zoom and pan using OpenCV with python.
 
 Use these keys:
 

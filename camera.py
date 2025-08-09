@@ -49,7 +49,7 @@ while(True):
     #read frame by frame
     ret, frame = cap.read()
     if not ret:
-        print "camera error"
+        print("camera error")
         break
     
     if zin > 0:
